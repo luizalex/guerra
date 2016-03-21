@@ -19,6 +19,6 @@ Esta classe e suas derivadas não sofreram alteração, foram implementadas como
 
 - `Dispatcher` class
 
-Esta classe não existia na modelagem e foi criada para servir de 'ponte' entre os geradores e receptores.
+Esta classe não existia na modelagem e foi criada para servir de *ponte* entre os geradores e receptores.
 
 
